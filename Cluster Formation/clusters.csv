@@ -1,0 +1,186 @@
+﻿,Cluster,Country_Name,Code,Option
+0,0.0,africa,,1.0
+1,0.0,americas (other),,1.0
+2,0.0,angola,AGO,1.0
+3,0.0,argentina,ARG,1.0
+4,0.0,asia and pacific (other),,1.0
+5,0.0,australia,AUS,1.0
+6,0.0,bahrain,BHR,1.0
+7,0.0,bangladesh,BGD,1.0
+8,0.0,benin,BEN,1.0
+9,0.0,bolivia,BOL,1.0
+10,0.0,brazil,BRA,1.0
+11,0.0,burkina faso,BFA,1.0
+12,0.0,cambodia,KHM,1.0
+13,0.0,canada,CAN,1.0
+14,0.0,chile,CHL,1.0
+15,0.0,china,CHN,1.0
+16,0.0,colombia,COL,1.0
+17,0.0,comoros,COM,1.0
+18,0.0,costa rica,CRI,1.0
+19,0.0,djibouti,DJI,1.0
+20,0.0,dominica,DMA,1.0
+21,0.0,dominican republic,DOM,1.0
+22,0.0,ecuador,ECU,1.0
+23,0.0,egypt,EGY,1.0
+24,0.0,el salvador,SLV,1.0
+25,0.0,ethiopia,ETH,1.0
+26,0.0,french polynesia,PYF,1.0
+27,0.0,gambia,GMB,1.0
+28,0.0,ghana,GHA,1.0
+29,0.0,guatemala,GTM,1.0
+30,0.0,guinea,GIN,1.0
+31,0.0,guinea-bissau,GNB,1.0
+32,0.0,haiti,HTI,1.0
+33,0.0,honduras,HND,1.0
+34,0.0,hong kong,HKG,1.0
+35,0.0,iceland,ISL,1.0
+36,0.0,india,IND,1.0
+37,0.0,international transport,,1.0
+38,0.0,iran,IRN,1.0
+39,0.0,japan,JPN,1.0
+40,0.0,laos,LAO,1.0
+41,0.0,malawi,MWI,1.0
+42,0.0,malaysia,MYS,1.0
+43,0.0,mali,MLI,1.0
+44,0.0,mauritius,MUS,1.0
+45,0.0,mexico,MEX,1.0
+46,0.0,middle east,,1.0
+47,0.0,mongolia,MNG,1.0
+48,0.0,morocco,MAR,1.0
+49,0.0,myanmar,MMR,1.0
+50,0.0,nepal,NPL,1.0
+51,0.0,new zealand,NZL,1.0
+52,0.0,pakistan,PAK,1.0
+53,0.0,panama,PAN,1.0
+54,0.0,papua new guinea,PNG,1.0
+55,0.0,paraguay,PRY,1.0
+56,0.0,peru,PER,1.0
+57,0.0,philippines,PHL,1.0
+58,0.0,qatar,QAT,1.0
+59,0.0,rwanda,RWA,1.0
+60,0.0,saint lucia,LCA,1.0
+61,0.0,samoa,WSM,1.0
+62,0.0,sao tome and principe,STP,1.0
+63,0.0,saudi arabia,SAU,1.0
+64,0.0,solomon islands,SLB,1.0
+65,0.0,south africa,ZAF,1.0
+66,0.0,south korea,KOR,1.0
+67,0.0,sri lanka,LKA,1.0
+68,0.0,taiwan,TWN,1.0
+69,0.0,thailand,THA,1.0
+70,0.0,togo,TGO,1.0
+71,0.0,tonga,TON,1.0
+72,0.0,tunisia,TUN,1.0
+73,0.0,turkey,TUR,1.0
+74,0.0,turkmenistan,TKM,1.0
+75,0.0,uganda,UGA,1.0
+76,0.0,united arab emirates,ARE,1.0
+77,1.0,azerbaijan,AZE,1.0
+78,1.0,bahamas,BHS,1.0
+79,1.0,estonia,EST,1.0
+80,2.0,united kingdom,GBR,1.0
+81,3.0,bermuda,BMU,1.0
+82,3.0,equatorial guinea,GNQ,1.0
+83,3.0,macao,MAC,1.0
+84,3.0,netherlands,NLD,1.0
+85,3.0,slovenia,SVN,1.0
+86,3.0,switzerland,CHE,1.0
+87,3.0,uzbekistan,UZB,1.0
+88,3.0,venezuela,VEN,1.0
+89,4.0,statistical differences,,1.0
+90,5.0,guyana,GUY,1.0
+91,5.0,singapore,SGP,1.0
+92,6.0,saint pierre and miquelon,SPM,1.0
+93,6.0,somalia,SOM,1.0
+94,7.0,france,FRA,1.0
+95,7.0,macedonia,MKD,1.0
+96,8.0,czech republic,CZE,1.0
+97,8.0,denmark,DNK,1.0
+98,8.0,germany,DEU,1.0
+99,8.0,hungary,HUN,1.0
+100,8.0,latvia,LVA,1.0
+101,8.0,lithuania,LTU,1.0
+102,8.0,north korea,PRK,1.0
+103,8.0,romania,ROU,1.0
+104,8.0,slovakia,SVK,1.0
+105,8.0,sweden,SWE,1.0
+106,8.0,ukraine,UKR,1.0
+107,9.0,algeria,DZA,1.0
+108,9.0,burundi,BDI,1.0
+109,9.0,republic of the congo,COG,1.0
+110,9.0,cote d'ivoire,CIV,1.0
+111,9.0,fiji,FJI,1.0
+112,9.0,iraq,IRQ,1.0
+113,9.0,kenya,KEN,1.0
+114,9.0,kuwait,KWT,1.0
+115,9.0,libya,LBY,1.0
+116,9.0,madagascar,MDG,1.0
+117,9.0,mauritania,MRT,1.0
+118,9.0,new caledonia,NCL,1.0
+119,9.0,nicaragua,NIC,1.0
+120,9.0,niger,NER,1.0
+121,9.0,nigeria,NGA,1.0
+122,9.0,palau,PLW,1.0
+123,10.0,curacao,CUW,1.0
+124,11.0,aruba,ABW,1.0
+125,11.0,belarus,BLR,1.0
+126,11.0,bulgaria,BGR,1.0
+127,11.0,eu-28,,1.0
+128,11.0,europe (other),,1.0
+129,11.0,malta,MLT,1.0
+130,11.0,poland,POL,1.0
+131,11.0,russia,RUS,1.0
+132,11.0,syria,SYR,1.0
+133,11.0,zimbabwe,ZWE,1.0
+134,12.0,brunei,BRN,1.0
+135,12.0,sierra leone,SLE,1.0
+136,13.0,antigua and barbuda,ATG,1.0
+137,13.0,liberia,LBR,1.0
+138,14.0,austria,AUT,1.0
+139,14.0,barbados,BRB,1.0
+140,14.0,belize,BLZ,1.0
+141,14.0,cape verde,CPV,1.0
+142,14.0,cyprus,CYP,1.0
+143,14.0,faeroe islands,FRO,1.0
+144,14.0,grenada,GRD,1.0
+145,14.0,indonesia,IDN,1.0
+146,14.0,ireland,IRL,1.0
+147,14.0,israel,ISR,1.0
+148,14.0,jordan,JOR,1.0
+149,14.0,lebanon,LBN,1.0
+150,14.0,norway,NOR,1.0
+151,14.0,portugal,PRT,1.0
+152,14.0,saint vincent and the grenadines,VCT,1.0
+153,14.0,spain,ESP,1.0
+154,14.0,trinidad and tobago,TTO,1.0
+155,14.0,united states,USA,1.0
+156,14.0,yemen,YEM,1.0
+157,15.0,georgia,GEO,1.0
+158,15.0,tajikistan,TJK,1.0
+159,16.0,belgium,BEL,1.0
+160,17.0,albania,ALB,1.0
+161,17.0,armenia,ARM,1.0
+162,17.0,bosnia and herzegovina,BIH,1.0
+163,17.0,democratic republic of republic of the congo,COD,1.0
+164,17.0,kazakhstan,KAZ,1.0
+165,18.0,luxembourg,LUX,1.0
+166,19.0,moldova,MDA,1.0
+167,20.0,afghanistan,AFG,1.0
+168,20.0,chad,TCD,1.0
+169,20.0,mozambique,MOZ,1.0
+170,21.0,greenland,GRL,1.0
+171,22.0,zambia,ZMB,1.0
+172,23.0,cameroon,CMR,1.0
+173,24.0,uruguay,URY,1.0
+174,25.0,croatia,HRV,1.0
+175,25.0,finland,FIN,1.0
+176,25.0,gabon,GAB,1.0
+177,25.0,greece,GRC,1.0
+178,25.0,italy,ITA,1.0
+179,25.0,jamaica,JAM,1.0
+180,26.0,central african republic,CAF,1.0
+181,27.0,cuba,CUB,1.0
+182,27.0,montenegro,MNE,1.0
+183,27.0,serbia,SRB,1.0
+184,27.0,suriname,SUR,1.0
